@@ -4,7 +4,7 @@ Basiert auf: *Hinweise zur Beurteilung von Messungen, Messergebnissen und Messun
 
 ---
 
-## 1. Grundlagen
+## 1. Grundlagen!
 
 ### 1.1 Unsicherheit statt „Fehler"
 - Messungen können prinzipiell nicht beliebig genau sein. Man spricht daher nicht von **Fehlern**, sondern von **Unsicherheiten** oder **Abweichungen**.
