@@ -1,0 +1,127 @@
+========================================================================
+Aufgabe 10: Statische Bestimmung D* der kleinen Drehachse (Puppe)
+========================================================================
+  Hebelarm r = 15.5 cm, u(r) = 1.0 mm
+  Fit: M = a0 + a1·phi
+    a0 = (-3.789 ± 1.245) mNm  (Achsenabschnitt)
+    a1 = (-24.4717 ± 0.6138) mNm/rad  (Steigung = D*)
+  D*_stat (mit Hebelarm- und Federwaagen-Skalierungs-Unsicherheit):
+    D*_stat = (24.47 ± 0.68) mNm/rad
+    D*_stat = (0.02447 ± 0.00068) Nm/rad
+  Achsenabschnitt a0 = -3.789 mNm, |a0|/u(a0) = 3.04 ⇒ außerhalb der 2σ-Umgebung des Ursprungs.
+
+========================================================================
+Aufgabe 11: Dynamische Bestimmung D* und J0 (kleine Drehachse)
+========================================================================
+  T (volle Schwingungsdauer) bei Abstand r=0 cm: 0.727 s
+  Typ-B-Unsicherheit pro T (Lichtschranke 1 ms): u_B = 0.41 ms
+  Lineare Regression T² vs Jz:
+    Steigung a1 = (1657 ± 4.9) s²/(kg m²)
+    Achsenabschnitt a0 = (0.53 ± 0.0047) s²
+  D*_dyn = (23.831 ± 0.070) mNm/rad
+  J0     = (319.9 ± 3.0) g·cm² (×10⁻⁶ kg·m²)
+  Vergleich D*_stat vs D*_dyn:  Δ = 0.641 mNm/rad, u(Δ) = 0.683 mNm/rad   ⇒ verträglich innerhalb 2σ
+  → Wir rechnen weiter mit D*_dyn.
+
+========================================================================
+Aufgabe 12: Trägheitsmoment der Puppe
+========================================================================
+  u(T_Puppe, angelegt)    = 0.41 ms (A: 0.00, B: 0.41)
+  u(T_Puppe, ausgestreckt) = 5.22 ms (A: 5.20, B: 0.41)
+  T(Puppe gerade) = 0.8100 s,  T(Puppe Arme) = 0.9960 s
+  T0 (ohne Puppe) = 0.7270 s
+  J_Puppe (Arme angelegt)    = (77.0 ± 1.1) ×10⁻⁶ kg·m²
+  J_Puppe (Arme ausgestreckt) = (279.8 ± 6.4) ×10⁻⁶ kg·m²
+  Verhältnis J_arme / J_gerade = (3.633 ± 0.097)
+
+========================================================================
+Aufgabe 13: Statische Bestimmung D* großer Drehteller
+========================================================================
+  Hebelarm r = 30 cm
+  Fit: a0 = (0.308 ± 0.044) Nm
+       a1 = (-2.304 ± 0.046) Nm/rad
+  D*_stat = (2.304 ± 0.053) Nm/rad
+
+========================================================================
+Aufgabe 14: Eigenträgheitsmoment J0 des Drehtellers (geometrisch)
+========================================================================
+  Aluminium-Scheibe: m = (15.27 ± 0.79) kg
+                     J = (0.687 ± 0.037) kg·m²
+  Stange:            m = 994.02 g,  J = 77.66 ×10⁻⁶ kg·m² (vernachlässigbar)
+  J0 (gesamt) = (0.687 ± 0.037) kg·m²
+
+========================================================================
+Aufgabe 15: Dynamische D* großer Drehteller (mit J0 aus Geometrie)
+========================================================================
+  T_halb = 1.6943 s, volle Periode T = (3.3887 ± 0.0061) s   (aus 23 Halbschwingungen in 38.97 s)
+  D*_dyn = (2.36 ± 0.13) Nm/rad
+  Vergleich D*_stat vs D*_dyn:  Δ = 0.058 Nm/rad, u(Δ) = 0.137 Nm/rad   ⇒ verträglich innerhalb 2σ.
+  → Wir rechnen weiter mit D*_dyn.
+
+========================================================================
+Aufgabe 16: Trägheitsmoment des Menschen (Messung)
+========================================================================
+  T (Mensch, Arme angelegt)   = (5.585 ± 0.017) s
+  T (Mensch, Arme ausgestreckt) = (7.808 ± 0.075) s
+  Mit D*_dyn = 2.36 Nm/rad:
+    J_Mensch (Arme angelegt)    = (1.180 ± 0.064) kg·m²
+    J_Mensch (Arme ausgestreckt) = (2.96 ± 0.17) kg·m²
+  Mit D*_stat = 2.30 Nm/rad:
+    J_Mensch (Arme angelegt)    = (1.151 ± 0.029) kg·m²
+    J_Mensch (Arme ausgestreckt) = (2.888 ± 0.096) kg·m²
+
+========================================================================
+Aufgabe 17: Theoretisches J_Mensch aus geometrischem Modell
+========================================================================
+  Modell: Kopf=Kugel, Rumpf+Glieder=Zylinder, Hand+Fuß=Punktmassen
+  J_theo (Arme angelegt)    = (0.678 ± 0.068) kg·m²
+  J_theo (Arme ausgestreckt) = (2.94 ± 0.29) kg·m²
+  Beiträge (angelegt):  Kopf=0.0180, Rumpf=0.2987, Arme=0.2180, Beine=0.1434
+  Beiträge (ausgestreckt): Arme=2.4771, Rest unverändert
+  Zylinder-Näherung (Mensch als Hüft-Zylinder, Gl. 17): J = (0.6108 ± 0.0086) kg·m²
+
+========================================================================
+Aufgabe 18: Extrapolation Puppe → Mensch
+========================================================================
+  Puppe: m = 183 g, l = 32 cm
+  Mensch: M = 70 kg, H = 183 cm
+  Extrapolation (Gl. 15, M/m·(L/l)²): J = (0.963 ± 0.034) kg·m²
+  Extrapolation (Gl. 16, ρ·(L/l)⁵):    J = (1.37 ± 0.27) kg·m²
+
+========================================================================
+Aufgabe 19: Vergleich aller berechneten/gemessenen J_Mensch
+========================================================================
+  Messung mit D*_dyn (Arme angelegt):     (1.180 ± 0.064) kg·m²
+  Messung mit D*_stat (Arme angelegt):    (1.151 ± 0.029) kg·m²
+  Modell (Arme angelegt):                  (0.678 ± 0.068) kg·m²
+  Zylinder-Näherung:                       (0.6108 ± 0.0086) kg·m²
+  Extrapolation (Gl. 15):                  (0.963 ± 0.034) kg·m²
+  Extrapolation (Gl. 16):                  (1.37 ± 0.27) kg·m²
+
+  Messung mit D*_dyn (Arme ausgestreckt):  (2.96 ± 0.17) kg·m²
+  Messung mit D*_stat (Arme ausgestreckt): (2.888 ± 0.096) kg·m²
+  Modell (Arme ausgestreckt):              (2.94 ± 0.29) kg·m²
+
+  Verhältnis (Messung) ausgestreckt / angelegt = 2.51 ± 0.20
+========================================================================
+Vorüberlegung: maximale Winkelabweichung θ für < 1 % Drehmomentfehler
+========================================================================
+  Bei Abweichung in Hebelarmrichtung: θ_max = ±8.1°
+  (Schwächere Richtung; Abweichung in Drehebene zählt linear: < 1° bedingt < 0,02 %)
+
+Vorüberlegung: maximaler Schwerpunktsabstand für < 10 % Fehler bei Puppe/Mensch
+========================================================================
+  Mensch (R = 13.2 cm):  d_max = 3.0 cm
+  Puppe (R = 2.8 cm):   d_max = 0.6 cm
+
+========================================================================
+ZUSAMMENFASSUNG (Endergebnisse)
+========================================================================
+  D*_klein (Puppe):            (23.831 ± 0.070) mNm/rad
+  J0_klein (Eigen):            (319.9 ± 3.0) ×10⁻⁶ kg·m²
+  J_Puppe (angelegt):          (77.0 ± 1.1) ×10⁻⁶ kg·m²
+  J_Puppe (ausgestreckt):      (279.8 ± 6.4) ×10⁻⁶ kg·m²
+  D*_groß (Drehteller):        (2.36 ± 0.13) Nm/rad
+  J0_groß (Drehteller):        (0.687 ± 0.037) kg·m²
+  J_Mensch (angelegt):         (1.180 ± 0.064) kg·m²
+  J_Mensch (ausgestreckt):     (2.96 ± 0.17) kg·m²

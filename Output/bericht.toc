@@ -1,0 +1,27 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
+\contentsline {section}{\numberline {2}Grundlagen}{1}{section.2}%
+\contentsline {paragraph}{Vorüberlegungen.}{2}{section*.8}%
+\contentsline {section}{\numberline {3}Experimentelles Vorgehen}{2}{section.3}%
+\contentsline {paragraph}{Statische Bestimmung der Winkelrichtgröße.}{2}{section*.9}%
+\contentsline {paragraph}{Dynamische Bestimmung von $D^{*}$ und $J_{0}$ (kleine Drehachse).}{2}{section*.10}%
+\contentsline {paragraph}{Messung der Puppe.}{3}{section*.11}%
+\contentsline {paragraph}{Großer Drehteller / Mensch.}{3}{section*.12}%
+\contentsline {section}{\numberline {4}Ergebnisse}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Kleine Drehachse (Puppe)}{3}{subsection.4.1}%
+\contentsline {paragraph}{Statische Bestimmung von $D^{*}$.}{3}{section*.13}%
+\contentsline {paragraph}{Dynamische Bestimmung von $D^{*}$ und $J_{0}$.}{3}{section*.16}%
+\contentsline {paragraph}{Trägheitsmoment der Puppe.}{4}{section*.21}%
+\contentsline {subsection}{\numberline {4.2}Großer Drehteller (Mensch)}{4}{subsection.4.2}%
+\contentsline {paragraph}{Statische Bestimmung.}{4}{section*.26}%
+\contentsline {paragraph}{Eigenträgheitsmoment $J_{0}$ und dynamische Charakterisierung.}{4}{section*.29}%
+\contentsline {paragraph}{Trägheitsmoment des Menschen.}{5}{section*.32}%
+\contentsline {subsection}{\numberline {4.3}Theoretische Trägheitsmomente des Menschen}{5}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Diskussion}{6}{section.5}%
+\contentsline {paragraph}{Konsistenz der Puppen-Apparatur.}{6}{section*.47}%
+\contentsline {paragraph}{Konsistenz beim großen Drehteller.}{6}{section*.48}%
+\contentsline {paragraph}{Vergleich Messung vs.\ Modell.}{6}{section*.49}%
+\contentsline {section}{\numberline {6}Zusammenfassung}{7}{section.6}%
+\contentsline {section}{\numberline {A}Anhang: Rohdaten und Zwischenrechnungen}{7}{appendix.A}%
+\contentsline {paragraph}{Ausführliche Fehlerrechnung (Auszug).}{8}{section*.54}%
+\contentsline {section}{\numberline {B}Beantwortung der Versuchsfragen (Hängeschaukel)}{8}{appendix.B}%
