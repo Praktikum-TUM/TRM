@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.20)  5 MAY 2026 22:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.4.20)  14 MAY 2026 15:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -790,126 +790,133 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.159 \paragraph
+l.161 \paragraph
                 {GroÃŸer Drehteller / Mensch.}{/usr/share/texmf/fonts/enc/dvips
 /lm/lm-mathsy.enc}]
-<abb_statisch_puppe.pdf, id=95, 297.7982pt x 213.18834pt>
+<abb_statisch_puppe.pdf, id=96, 297.7982pt x 213.18834pt>
 File: abb_statisch_puppe.pdf Graphic file (type pdf)
 <use abb_statisch_puppe.pdf>
-Package pdftex.def Info: abb_statisch_puppe.pdf  used on input line 196.
+Package pdftex.def Info: abb_statisch_puppe.pdf  used on input line 201.
 (pdftex.def)             Requested size: 225.86067pt x 161.68974pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 197.
+(Font)              <9> on input line 202.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 197.
-<abb_dynamisch_puppe.pdf, id=96, 289.36044pt x 215.19585pt>
+(Font)              <5> on input line 202.
+<abb_dynamisch_puppe.pdf, id=97, 289.36044pt x 215.19585pt>
 File: abb_dynamisch_puppe.pdf Graphic file (type pdf)
 <use abb_dynamisch_puppe.pdf>
-Package pdftex.def Info: abb_dynamisch_puppe.pdf  used on input line 201.
+Package pdftex.def Info: abb_dynamisch_puppe.pdf  used on input line 206.
 (pdftex.def)             Requested size: 225.86067pt x 167.97029pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 206.
+(Font)              <10> on input line 211.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 206.
+(Font)              <7> on input line 211.
  [3 <./abb_statisch_puppe.pdf> <./abb_dynamisch_puppe.pdf>]
+Overfull \hbox (5.11781pt too wide) in paragraph at lines 243--254
+\T1/lmr/m/n/10.95 (-20) Typ-B-Beitrag von $\OT1/lmr/m/n/10.95 (-20) 0[]4 []$ \T
+1/lmr/m/n/10.95 (-20) pro Pe-ri-ode, so-dass die Ge-sam-tun-si-cher-heit der Pu
+ppen-Trägheitsmomente
+ []
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.248 \begin{equation}
+l.259 \begin{equation}
                       
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.248 \begin{equation}
+l.259 \begin{equation}
                       
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.248 \begin{equation}
+l.259 \begin{equation}
                       
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.248 \begin{equation}
+l.259 \begin{equation}
                       
 <abb_statisch_drehteller.pdf, id=222, 291.415pt x 213.18834pt>
 File: abb_statisch_drehteller.pdf Graphic file (type pdf)
 <use abb_statisch_drehteller.pdf>
-Package pdftex.def Info: abb_statisch_drehteller.pdf  used on input line 261.
+Package pdftex.def Info: abb_statisch_drehteller.pdf  used on input line 272.
 (pdftex.def)             Requested size: 225.86067pt x 165.2355pt.
 <abb_schwingungsdauer_mensch.pdf, id=223, 275.2063pt x 200.72566pt>
 File: abb_schwingungsdauer_mensch.pdf Graphic file (type pdf)
 <use abb_schwingungsdauer_mensch.pdf>
-Package pdftex.def Info: abb_schwingungsdauer_mensch.pdf  used on input line 26
-6.
+Package pdftex.def Info: abb_schwingungsdauer_mensch.pdf  used on input line 27
+7.
 (pdftex.def)             Requested size: 225.86067pt x 164.73392pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \begin{equation}
+l.290 \begin{equation}
                       
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \begin{equation}
+l.290 \begin{equation}
                       
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \begin{equation}
+l.290 \begin{equation}
                       
 pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.279 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.286 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.286 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.286 \begin{equation}
-                      
-pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.286 \begin{equation}
+l.290 \begin{equation}
                        [4 <./abb_statisch_drehteller.pdf> <./abb_schwingungsdau
 er_mensch.pdf>]
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.297 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.297 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.297 \begin{equation}
+                      
+pdfTeX warning (ext4): destination with the same identifier (name{equation.4.1}
+) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.297 \begin{equation}
+                      
 <abb_vergleich_mensch.pdf, id=331, 368.39821pt x 238.10117pt>
 File: abb_vergleich_mensch.pdf Graphic file (type pdf)
 <use abb_vergleich_mensch.pdf>
-Package pdftex.def Info: abb_vergleich_mensch.pdf  used on input line 357.
+Package pdftex.def Info: abb_vergleich_mensch.pdf  used on input line 369.
 (pdftex.def)             Requested size: 359.52873pt x 232.38202pt.
- [5]
+ [5] [6 <./abb_vergleich_mensch.pdf>]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-20.
- (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+47.
+
+(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [6 <./abb_vergleich_mensch.pdf>] [7{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts
-1.enc}]
-Overfull \hbox (3.19106pt too wide) in paragraph at lines 540--542
+) [7{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
+Overfull \hbox (3.19106pt too wide) in paragraph at lines 569--571
  []\T1/lmr/bx/n/10.95 (-20) Ausführliche Feh-ler-rech-nung (Aus-zug).[] \T1/lmr
 /m/n/10.95 (-20) Für $\OML/lmm/m/it/10.95 J \OT1/lmr/m/n/10.95 (-20) = \OML/lmm
 /m/it/10.95 D[] \OT1/lmr/m/n/10.95 (-20) (\OML/lmm/m/it/10.95 T[] \OMS/lmsy/m/n
@@ -927,13 +934,13 @@ Package rerunfilecheck Info: File `bericht.out' has not changed.
 (rerunfilecheck)             Checksum: C35EE69812E0DD94F86013A195A52308;1873.
  ) 
 Here is how much of TeX's memory you used:
- 19615 strings out of 474222
- 373489 string characters out of 5748733
- 1948975 words of memory out of 5000000
+ 19617 strings out of 474222
+ 373513 string characters out of 5748733
+ 1944975 words of memory out of 5000000
  41295 multiletter control sequences out of 15000+600000
- 663255 words of font info for 221 fonts, out of 8000000 for 9000
+ 663468 words of font info for 222 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,13n,88p,1053b,1045s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,13n,88p,1053b,1070s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx9.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/pu
@@ -948,7 +955,7 @@ m/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lms
 y7.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
 Output written on /home/sebas/PycharmProjects/TRM-Praktikum/out/bericht.pdf (9 
-pages, 443438 bytes).
+pages, 448453 bytes).
 PDF statistics:
  579 PDF objects out of 1000 (max. 8388607)
  308 compressed objects within 4 object streams
