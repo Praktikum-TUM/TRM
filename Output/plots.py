@@ -40,9 +40,6 @@ def german(x, _pos=None):
     return s.replace(".", ",")
 
 
-# ---------------------------------------------------------------
-# Abb. 1: Statische Bestimmung D* (Puppe) — M(φ)
-# ---------------------------------------------------------------
 fig, ax = plt.subplots(figsize=(4.4, 3.0))
 phi_deg = np.array(R["phi_deg_p"])
 F_betrag = np.abs(np.array(R["F_p"]))

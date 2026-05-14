@@ -153,20 +153,4 @@ In dem Input Ordner stehen mehrere Dateien, diese Fomularien sollst du beachten.
 2. Bitte gib den Fertigen Bericht als LateX File und nicht als PDF.
 
 Überprüfe extra die Fehlerrechnung nochmal!
-
-1. Kräftezerlegung experimentell auswerten:
-   * Integriere die folgenden Messdaten für die Kräftezerlegung: [Füge hier deine Rohdaten für Winkel, Normalkraft und Tangentialkraft ein].
-   * Erstelle ein Python-Matplotlib-Skript für einen Plot, der die theoretischen Kurven ($\sin(\alpha), \cos(\alpha), \tan(\alpha)$) zeigt und die Messpunkte (Verhältnisse $F_\parallel/F_g$, $F_\perp/F_g$, $F_\parallel/F_\perp$)
-     inklusive Fehlerbalken (Typ-B-Unsicherheit der Federwaage) darüberlegt.
-   * Schreibe einen kurzen Auswertungstext, der systematische Abweichungen der Messwerte von der Theoriekurve diskutiert (z.B. Ausrichtungsfehler beim Halten der Federwaage).
-
-  2. Rohdaten im Anhang tabellieren:
-   * Erstelle LaTeX-/Markdown-Tabellen für den Anhang, die alle Rohdaten enthalten. 
-   * Tabelle A1: Rohdaten der Kräftezerlegung.
-   * Tabelle A2: Alle Einzelmessungen der Zugkraft für das Losbrechmoment (Haftreibung) für alle Massenkonfigurationen.
-   * Datenbasis: [Füge hier ggf. deine Messwert-Listen ein oder generiere Platzhalter-Tabellen, die ich ausfüllen kann].
-
-  3. Weg-Zeit-Diagramme (Gleitreibung) transparent darstellen:
-   * Optimiere die Darstellung der Weg-Zeit-Diagramme der Ultraschallmessung. 
-   * Schreibe den Python-Plot-Code so um, dass er alle Rohdaten des Ultraschallsensors (inklusive des Stillstands vor dem Loslassen und nach dem Anschlagen) z. B. in Grau plottet.
-   * Markiere nur den isolierten Beschleunigungsbereich, an den die Parabel $x(t) = \frac{1}{2}at^2 + v_0t + x_0$ gefittet wird, farbig (z.B. blaue Punkte) und lege die rote Fit-Kurve nur über diesen Bereich.
+yes
